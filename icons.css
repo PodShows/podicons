@@ -1,0 +1,79 @@
+body{
+    background-color: gray;
+}
+.iconsrow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+img{
+    width: 100%;
+    max-height: 100%;
+}
+svg{
+    fill: white;
+}
+
+.icon{
+    width: 64px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.web{
+    background-color: #468fb6;
+}
+
+.mail{
+    background-color: red;
+}
+
+.rss{ 
+    background-color: orange;
+}
+
+.apple {
+    background-color:#B150E2;
+}
+
+.spotify{
+    background-color : #1DB954;
+}
+
+.podcloud{
+background-color: #261788;
+}
+
+.youtube{
+    background-color: #cd201f;
+}
+
+.twitter{
+    background-color: #1DA1F2;
+}
+
+.facebook{
+    background-color: #4267B2;
+}
+
+.discord{
+    background-color: #7289DA;
+}
+
+.twitch{
+    background-color: #654099;
+}
+
+.wiki{
+    background-color: #413e3f;
+}
+
+.shop{
+    background-color: #c82b34;
+}
