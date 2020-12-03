@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: dimgray;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -129,4 +129,16 @@ background-color: #261788;
 
 .tiktok{
     background-color: black;
+}
+
+.onlyfan{
+    background-color: #2cafed;
+}
+
+.link{
+    background-color: grey;
+}
+
+.info{
+    background-color: grey;
 }
