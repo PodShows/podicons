@@ -1,5 +1,8 @@
 body{
     background-color: gray;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 .iconsrow {
     display: flex;
@@ -76,4 +79,20 @@ background-color: #261788;
 
 .shop{
     background-color: #c82b34;
+}
+
+.tipeee{
+   background-color: #d84759;
+}
+
+.soundcloud{
+    background-color: #fb5423;
+}
+
+.podcastaddict{
+    background-color: #e8803a;
+}
+
+.tip{
+    background-color: #dc79ac;
 }
