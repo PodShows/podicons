@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="1.414"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="steam.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2094"
+     inkscape:window-height="1422"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="63"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="578"
+     inkscape:window-y="532"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#000000"
+     d="M7.986 0C3.784 0 .34 3.24.014 7.358L4.302 9.13c.363-.247.802-.393 1.274-.393.042 0 .084.002.126.004L7.61 5.98v-.04c0-1.663 1.352-3.016 3.016-3.016 1.663 0 3.017 1.354 3.017 3.018 0 1.664-1.354 3.017-3.017 3.017h-.07L7.838 10.9c0 .034.003.07.003.106 0 1.25-1.01 2.264-2.26 2.264-1.09 0-2.01-.782-2.22-1.818L.29 10.18C1.24 13.538 4.323 16 7.985 16c4.418 0 8-3.582 8-8s-3.582-8-8-8zm-2.96 12.14l-.982-.407c.175.362.476.666.876.833.865.36 1.862-.05 2.222-.916.175-.42.176-.88.003-1.3-.173-.42-.5-.747-.918-.922-.416-.173-.86-.166-1.252-.02l1.015.42c.638.267.94 1 .673 1.637-.265.638-.998.94-1.636.674zm7.61-6.202c0-1.108-.902-2.01-2.01-2.01-1.11 0-2.01.902-2.01 2.01 0 1.11.9 2.01 2.01 2.01 1.108 0 2.01-.9 2.01-2.01zM9.12 5.935c0-.835.675-1.51 1.51-1.51.833 0 1.51.675 1.51 1.51 0 .834-.677 1.51-1.51 1.51-.835 0-1.51-.676-1.51-1.51z"
+     id="path2"
+     style="fill:#ffffff" />
+</svg>
